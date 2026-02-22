@@ -1,5 +1,26 @@
-p
-{
+html{
+    background-color: azure;
+}
+
+nav{
+    background-color: aliceblue;
+}
+
+h1{
+    font-family: gerogia;
+    color : rgb(35, 132, 37);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p {
     color:aqua;
     background-color: bisque;
+    font-family: times new roman;
+}
+
+ul{
+    color: rgb(44,44,44);
+    background-color: rgba(44, 65, 102, 0.56);
+    font-size: 1em;
 }
