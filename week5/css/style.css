@@ -25,6 +25,14 @@ ul{
     font-size: 1em;
 }
 
+/*id*/
 top{
     color:rgb(76,88,92);
+}
+
+/*maybe this is a child?*/
+blockquote {
+    background-color: #264a8d;
+    color: #764a8d;
+
 }
