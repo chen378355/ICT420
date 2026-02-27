@@ -27,13 +27,13 @@ ul{
 }
 
 /*id*/
-top{
-    color:rgb(76,88,92);
+#top{
+    color:rgb(33, 14, 174);
 }
 
-/*maybe this is a child?*/
-blockquote {
-    background-color: #264a8d;
-    color: #764a8d;
-
+/*Descendant combinator*/
+p var {
+    font-size:2.5em;
+    color:gray;
+    background:yellow;
 }
