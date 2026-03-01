@@ -1,0 +1,39 @@
+html{
+    background-color: azure;
+}
+
+nav{
+    background-color: aliceblue;
+}
+
+h1{
+    font-family: gerogia;
+    color : rgb(35, 132, 37);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p {
+    color:navy;
+    background-color: bisque;
+    font-family: times new roman;
+    font-size:2em;
+}
+
+ul{
+    color: rgb(44,44,44);
+    background-color: rgba(44, 65, 102, 0.56);
+    font-size: 1em;
+}
+
+/*id*/
+#top{
+    color:rgb(33, 14, 174);
+}
+
+/*Descendant combinator*/
+p var {
+    font-size:2.5em;
+    color:gray;
+    background:yellow;
+}
