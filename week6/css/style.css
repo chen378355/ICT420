@@ -7,12 +7,12 @@ nav{
     background-color: aliceblue;
 }/*I dont have a section so i am going to format my h1 */
 h1{
-    font-family: gerogia;
+    font-family: Gerogia;
     color : rgb(35, 132, 37);
-    font-size: 5 em;
+    font-size: 5em;
     font-weight: bold;
-    padding: 2 rem;
-    border-bottom-width: 1.5 rem;
+    padding: 2rem;
+    border-bottom-width: 1.5rem;
     border-bottom-style: groove;
     width: 90%;
     margin:auto;
@@ -20,6 +20,7 @@ h1{
 
 main{
     border-width:2px;
+    border-style: solid;
     width:80%;
     margin:auto;
 }
