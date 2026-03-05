@@ -6,7 +6,6 @@ html{
 nav{
     background-color: aliceblue;
 }/*I dont have a section so i am going to format my h1 */
-
 h1{
     font-family: Gerogia;
     color : rgb(35, 132, 37);
@@ -38,7 +37,7 @@ p {
 
 ul{
     color: rgb(44,44,44);
-    background-color: rgba(44, 102, 75, 0.56);
+    background-color: rgba(44, 65, 102, 0.56);
     font-size: 1em;
 }
 
