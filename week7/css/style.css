@@ -1,19 +1,42 @@
 
 html{
     background-color: azure;
+    font-size: 100%;
+    font-family: Gill Sans, Noto Sans, Arial, sans-serif;
+    line-height: 1.5;
 }
 
 nav{
     background-color: aliceblue;
 }/*I dont have a section so i am going to format my h1 */
 h1{
-    font-family: Gerogia;
     color : rgb(35, 132, 37);
+    font-family: Times, Times New Roman, serif;
     font-size: 5em;
     font-weight: bold;
     padding: 2rem;
     border-bottom-width: 1.5rem;
     border-bottom-style: groove;
+    width: 90%;
+    margin:auto;
+}
+
+h2{
+    color : rgb(35, 118, 132);
+    font-family: Times, Times New Roman, serif;
+    font-size: 4em;
+    font-weight: bold;
+    padding: 2rem;
+    width: 90%;
+    margin:auto;
+}
+
+h3{
+    color : rgb(181, 47, 178);
+    font-family: Times, Times New Roman, serif;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 2rem;
     width: 90%;
     margin:auto;
 }
@@ -28,10 +51,10 @@ main{
 p {
     color:navy;
     background-color: bisque;
-    font-family: times new roman;
     font-size:2em;
     width:80%;
     margin:auto;
+    text-indent: 50px;
 
 }
 
