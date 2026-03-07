@@ -72,7 +72,6 @@ ul{
 
 /*Descendant combinator*/
 p var {
-    font-size:2.5em;
     color:gray;
     background:yellow;
 }
