@@ -11,7 +11,7 @@ nav{
 }/*I dont have a section so i am going to format my h1 */
 h1{
     color : rgb(35, 132, 37);
-    font-family: Times, Times New Roman, serif;
+    font-family: Times, "Times New Roman", serif;
     font-size: 9em;
     font-weight: bold;
     padding: 2rem;
@@ -19,11 +19,12 @@ h1{
     border-bottom-style: groove;
     width: 90%;
     margin:auto;
+    text-transform: uppercase;
 }
 
 h2{
     color : rgb(35, 118, 132);
-    font-family: Times, Times New Roman, serif;
+    font-family: Times, "Times New Roman", serif;
     font-size: 5em;
     font-weight: bold;
     padding: 2rem;
@@ -33,7 +34,7 @@ h2{
 
 h3{
     color : rgb(181, 47, 178);
-    font-family: Times, Times New Roman, serif;
+    font-family: Times, "Times New Roman", serif;
     font-size: 1em;
     font-weight: bold;
     padding: 2rem;
