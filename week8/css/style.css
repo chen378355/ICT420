@@ -53,8 +53,6 @@ p {
     color:navy;
     background-color: bisque;
     font-size:2em;
-    width:80%;
-    margin:auto;
     text-indent: 50px;
 
 }
@@ -65,10 +63,13 @@ ul{
     font-size: 2em;
 }
 
-img{
-    width:80%;
-    margin:auto;
-
+picture img{
+    width:100px;
+    height:auto;
+    float:left;
+    margin-right:20px;
+    margin-bottom:10px;
+    display:block;
 }
 
 /*id*/
