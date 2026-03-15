@@ -8,7 +8,9 @@ html{
 
 nav{
     background-color: aliceblue;
-}/*I dont have a section so i am going to format my h1 */
+}
+
+
 h1{
     color : rgb(35, 132, 37);
     font-family: Times, "Times New Roman", serif;
@@ -63,13 +65,17 @@ ul{
     font-size: 2em;
 }
 
+picture{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
 picture img{
-    width:100px;
-    height:auto;
-    float:left;
-    margin-right:20px;
-    margin-bottom:10px;
-    display:block;
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 /*id*/
