@@ -6,7 +6,13 @@ html{
     line-height: 1.5;
 }
 
-nav{
+nav ul{
+    display:flex;
+    flex-flow:rpw wrap;
+    justify-content: space-around;
+    color: rgb(44,44,44);
+    background-color: rgba(44, 65, 102, 0.56);
+    font-size: 1.5em;
     background-color: aliceblue;
 }
 
@@ -59,11 +65,7 @@ p {
 
 }
 
-ul{
-    color: rgb(44,44,44);
-    background-color: rgba(44, 65, 102, 0.56);
-    font-size: 2em;
-}
+
 
 picture{
     float: left;
