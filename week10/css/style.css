@@ -90,3 +90,10 @@ p var {
     color:gray;
     background:yellow;
 }
+
+section {
+    display: flex;
+    gap: 50px;
+    flex-flow: row wrap;
+    justify-content: center;
+}
