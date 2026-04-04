@@ -8,7 +8,7 @@ html{
 
 nav ul{
     display:flex;
-    flex-flow:rpw wrap;
+    flex-flow:row wrap;
     justify-content: space-around;
     color: rgb(44,44,44);
     background-color: rgba(37, 92, 187, 0.56);
